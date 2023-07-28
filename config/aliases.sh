@@ -5,8 +5,9 @@
 alias cdg="cd ~/git"
 alias zrc="cd $DOT_DIR/zsh"
 alias dot="cd $DOT_DIR"
-alias jp="jupyter lab"
-
+alias jp="jupyter notebook"
+alias jpr="jupyter notebook --no-browser --port=8080"
+alias jpl="ssh -L 8080:localhost:8080"
 # -------------------------------------------------------------------
 # general
 # -------------------------------------------------------------------
