@@ -160,3 +160,7 @@ chx () {
     echo "Usage: chx <dir>" >&2
   fi
 }
+
+
+alias sp="sudo .env/bin/python"
+alias se="source .env/bin/activate"
