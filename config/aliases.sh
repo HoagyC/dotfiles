@@ -164,3 +164,4 @@ chx () {
 
 alias sp="sudo .env/bin/python"
 alias se="source .env/bin/activate"
+alias nv="nvidia-smi"
